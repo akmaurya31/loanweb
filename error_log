@@ -1,0 +1,95 @@
+[29-Feb-2024 14:23:57 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:23:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:24:01 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:24:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:25:28 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:25:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:25:29 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:25:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:25:31 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:25:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:17 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:21 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:21 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:22 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:23 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:57 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:28:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:29:18 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:29:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:29:33 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:29:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:40:20 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:40:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:40:21 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:40:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:42:17 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:42:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:42:20 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:42:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:43:48 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:43:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:52:50 UTC] PHP Warning:  require(/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
+[29-Feb-2024 14:52:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/opgi/public_html/dionaluxurysalon.in/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/opgi/public_html/dionaluxurysalon.in/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/opgi/public_html/dionaluxurysalon.in/index.php on line 34
