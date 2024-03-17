@@ -175,7 +175,7 @@ Route::group(['prefix' => 'admin','middleware'=>['web','checkAdmin']],function()
     Route::post('/assign_user',[ContactController::class,'AssignUser'])->name('contact.assign');    
     Route::post('/feedback',[ContactController::class,'FeedbackUser'])->name('contact.feedback');
     Route::get('/customer_state_wise',[ContactController::class,'Customer_statewise'])->name('contact.customer_state_wise');
-    Route::get('/sendTestEmail',[ContactController::class,'sendTestEmail'])->name('contact.sendTestEmail');
+    Route::get('/sendTestEmail',[ContactController::class,'sendTestEmail'])->name('contact.sendTestEmail');  //178
 
 
     Route::get('/customer_payment',[ContactController::class,'Customerpayment'])->name('contact.customer_payment');

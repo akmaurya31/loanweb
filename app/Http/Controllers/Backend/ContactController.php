@@ -21,16 +21,10 @@ class ContactController extends Controller
 
     public function sendTestEmail()
     {
-
-        
         try {
-              
             // $mailContent = (object) ['StudentName' => $data->stuName, 'RefNo' => $data->refNo,'CourseName'=>'ABC','courseStartDate'=>$data->courseStartDate,'courseEndDate'=>$data->courseEndDate];
             $mailContent='hi';
-            
             Mail::to('akmaurya31@gmail.com')->send(new TestMail($mailContent));
-
-
             die("ASdfas");
             return "Email sent successfully!";
             } catch (\Exception $e) {
@@ -38,6 +32,7 @@ class ContactController extends Controller
             }
     }
 
+    //34
     
     public function AssignUser(Request $request)
     {        
